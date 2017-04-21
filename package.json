@@ -2,12 +2,10 @@
   "name": "seb-react-starter-kit",
   "version": "1.0.0",
   "description": "Starter kit for React SEB",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Izzad Halimi",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-cli": "6.8.0",
     "babel-core": "6.8.0",
@@ -34,6 +32,7 @@
     "url-loader": "0.5.7",
     "webpack": "1.13.0",
     "webpack-dev-middleware": "1.6.1",
+    "webpack-dev-server": "^2.4.2",
     "webpack-hot-middleware": "2.10.0"
   },
   "repository": {
